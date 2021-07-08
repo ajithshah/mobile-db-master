@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MobileDB</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="dob">D.O.B.</string>
+    <string name="address">Address</string>
+    <string name="educationalqualification">Educational Qualification</string>
+    <string name="age">Age</string>
+    <string name="sslc">S.S.L.C.</string>
+    <string name="hsc">H.S.C.</string>
+    <string name="ug">U.G.</string>
+    <string name="pg">P.G.</string>
+    <string name="per">Per</string>
+    <string name="hint">hint</string>
+    <string name="title_activity_main4">MainActivity</string>
+
+</resources>
